@@ -27,4 +27,4 @@ This assignment is due at the beginning of class next **Wednesday, Feb. 14.** Pl
   - [Vox](https://github.com/voxmedia)
   - [Politico](https://github.com/The-Politico)
 
-You can find many more [https://github.com/silva-shih/open-journalism]here.
+You can find many more [https://github.com/silva-shih/open-journalism](here).
